@@ -6,7 +6,7 @@
 
 Hello! I am a front-end developer from Ukraine .<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am a developer with industry experience building websites and web applications. I'm an enthusiastic and detail-oriented Frontend Software Engineer . I specialize in JavaScript and have professional experience working with Express and Nodejs. I also have experience working with Vue and React. I am ready for news adventures.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://t.me/Andreas_acord) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreas.acardio@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AndeAcardio-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Andreas_acord) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreas.acardio@gmail.com)
 
 ---
 
