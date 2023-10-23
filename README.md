@@ -7,21 +7,6 @@
 Hello! I am a full stack developer from Ukraine .<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am a developer with industry experience building websites and web applications. I'm an enthusiastic and detail-oriented Frontend Software Engineer . I specialize in JavaScript and have professional experience working with Express and Nodejs. I also have experience working with Vue and React. I am ready for news adventures.
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AndeAcardio-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Andreas_acord) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreas.acardio@gmail.com)
-
----
-
-### 🤝 Social networks:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/andrii-shkvarok-907b98265/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/Andreas_acord" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-
-  </div>
-
 ---
 
 ### 💻 Tecnologies:
