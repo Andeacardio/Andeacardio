@@ -104,7 +104,9 @@ Hello! I am a full stack developer from Ukraine .<img src="https://media.giphy.c
       https://andriy-portfolio.netlify.app/
     </a>
   </div>
+  
 ---
+
 ### 🤝 Social networks:
 
   <div id="badges">
@@ -116,6 +118,7 @@ Hello! I am a full stack developer from Ukraine .<img src="https://media.giphy.c
     </a>
 
   </div>
+  
 ---
 
 
