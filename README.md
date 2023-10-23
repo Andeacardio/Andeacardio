@@ -42,6 +42,49 @@ Hello! I am a full stack developer from Ukraine .<img src="https://media.giphy.c
 
 ---
 
+### 🤝 Links:
+
+  <div id="badges">
+    <a href="https://favoritesplace.netlify.app/" target="_blank">
+      https://favoritesplace.netlify.app/  
+    </a>
+        <a href="https://superhouse.netlify.app/" target="_blank">
+      https://superhouse.netlify.app/  
+    </a>
+        <a href="https://promium.netlify.app/" target="_blank">
+      https://promium.netlify.app/ 
+    </a>
+        <a href="https://mysea-battle.netlify.app/" target="_blank">
+      https://mysea-battle.netlify.app/ 
+    </a>
+        <a href="https://mysyper-awesomenotes.netlify.app/" target="_blank">
+      https://mysyper-awesomenotes.netlify.app/
+    </a>
+        <a href="https://andreastodolist.netlify.app/" target="_blank">
+      https://andreastodolist.netlify.app/ 
+    </a>
+        <a href="https://mysyper-tictac.netlify.app/" target="_blank">
+      https://mysyper-tictac.netlify.app/
+    </a>
+        <a href="https://enshtein-app.netlify.app/" target="_blank">
+      https://enshtein-app.netlify.app/
+    </a>
+    <a href="https://dailyjournal-blog.onrender.com/" target="_blank">
+       https://dailyjournal-blog.onrender.com/
+    </a>
+    <a href="https://andrea-todolist-app.onrender.com/" target="_blank">
+      https://andrea-todolist-app.onrender.com/
+    </a>
+    <a href="https://awesome-notes.onrender.com/" target="_blank">
+      https://awesome-notes.onrender.com/
+    </a>
+    <a href="https://andriy-portfolio.netlify.app/" target="_blank">
+      https://andriy-portfolio.netlify.app/
+    </a>
+   
+
+  </div>
+---
 ### 🤝 Social networks:
 
   <div id="badges">
