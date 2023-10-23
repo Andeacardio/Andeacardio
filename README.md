@@ -59,6 +59,7 @@ Hello! I am a full stack developer from Ukraine .<img src="https://media.giphy.c
       https://promium.netlify.app/ 
     </a>
   </div>
+  -----
   <div id="badges">
         <a href="https://mysea-battle.netlify.app/" target="_blank">
       https://mysea-battle.netlify.app/ 
@@ -84,6 +85,7 @@ Hello! I am a full stack developer from Ukraine .<img src="https://media.giphy.c
       https://enshtein-app.netlify.app/
     </a>
   </div>
+  -----
   <div id="badges">
     <a href="https://dailyjournal-blog.onrender.com/" target="_blank">
        https://dailyjournal-blog.onrender.com/
